@@ -4,3 +4,9 @@ void mytestfunctionCheckDirectlyIntoBase()
 {
   throw Exception();
 }
+
+
+void anotherfunctiondirectlytomaster()
+{
+  throw Exception();
+}
