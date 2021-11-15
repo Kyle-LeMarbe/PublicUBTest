@@ -1,1 +1,6 @@
-This is a new repo for testing...
+//This is a new repo for testing...
+
+void mytestfunctionCheckDirectlyIntoBase()
+{
+  throw Exception();
+}
